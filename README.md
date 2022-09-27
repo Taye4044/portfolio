@@ -3,7 +3,9 @@
 This portfolio is a small project using HTML/ CSS and Boostrap. I will be using this to show cas my projects
 
 [Live Deployment](https://portfolio.taye4044.repl.co/)
-![Screenshot 2022-04-05 at 3 05 30 AM]
+
+![image](https://user-images.githubusercontent.com/59063996/192608858-179854f5-c362-4007-9272-18830f81cab9.png)
+
 
 
 
